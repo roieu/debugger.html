@@ -40,7 +40,7 @@
     "nom": "rm -rf node_modules yarn.lock; yarn install"
   },
   "dependencies": {
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.22.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "6.23.0",
     "babel-traverse": "^6.22.1",
     "babel-types": "^6.22.0",
     "babylon": "^6.15.0",
